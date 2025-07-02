@@ -1,4 +1,4 @@
-# 💇‍♀️ Salon Booking Application
+# 💇‍♀️ Queue Booking Application
 
 A web-based platform that streamlines the process of booking appointments at salons. Users can browse available services, check stylist availability, and manage their bookings—all in real-time. Designed for both customers and salon managers with dynamic role-based functionality.
 
